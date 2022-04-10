@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Edward
+Umich CS <br>
+Reach me at edwhuang (at) umich (dot) edu
 
 <!--
 **edwhuang23/edwhuang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
