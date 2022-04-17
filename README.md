@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Edward
+### Hey there 👋 I'm Edward
+
+I'm passionate about building high-impact software and particularly interested in full-stack development and NLP.
+
 Umich CS <br>
 Reach me at edwhuang (at) umich (dot) edu
 
