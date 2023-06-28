@@ -4,7 +4,7 @@ I'm a software engineer in the payments space and am passionate about building h
 
 Recently, I've been avidly following F1 and the incredible technology behind the sport. I've also been playing some chess.
 
-Reach me at edwhuang (at) umich (dot) edu
+Reach me at edwhuang (at) umich (dot) edu!
 
 <!--
 **edwhuang23/edwhuang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
