@@ -1,8 +1,9 @@
 ### Hey there 👋 I'm Edward
 
-I'm passionate about building high-impact software and particularly interested in full-stack development and NLP.
+I'm a software engineer in the payments space and am passionate about building high-impact software.
 
-Umich CS <br>
+Recently, I've been avidly following F1 and the incredible technology behind the sport. I've also been playing some chess.
+
 Reach me at edwhuang (at) umich (dot) edu
 
 <!--
