@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Edward
 
-I'm a software engineer in the payments space and am passionate about building high-impact software.
+I'm a software engineer in the messaging space and am passionate about building high-impact software.
 
 Recently, I've been avidly following F1 and the incredible technology behind the sport. I've also been playing some chess.
 
